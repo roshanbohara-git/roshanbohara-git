@@ -57,6 +57,8 @@
   </a>
   <img width="12" />
 </div>
+
+
 ---
 
 <h3 align="left">📈 GitHub Stats</h3>
@@ -65,6 +67,8 @@
   <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=roshanbohara-git&theme=merko&hide_border=true&card_height=175&exclude_days=Sat" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbohara-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
 </div>
+
+
 ---
 
 <h3 align="left">Let's Connect: </h3>
@@ -83,6 +87,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/roshanbohara-git/roshanbohara-git/output/snake.svg" alt="Snake animation" />
 
 ---
 
