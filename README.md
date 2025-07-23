@@ -1,3 +1,5 @@
+![MasterHead](./Media/github.gif)
+
 <h1 align="center">Hi there 👋, I'm Roshan Bohara</h1>
 <h3 align="center">Aspiring AI Engineer | Passionate Learner | Tech Enthusiast from Nepal 🇳🇵</h3>
 
@@ -58,7 +60,6 @@
   <img width="12" />
 </div>
 
-
 ---
 
 <h3 align="left">📈 GitHub Stats</h3>
@@ -67,7 +68,6 @@
   <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=roshanbohara-git&theme=merko&hide_border=true&card_height=175&exclude_days=Sat" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbohara-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
 </div>
-
 
 ---
 
@@ -89,6 +89,5 @@
 </div>
 
 ---
-
 
 > “The best way to predict the future is to invent it.” – Alan Kay
