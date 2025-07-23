@@ -90,10 +90,5 @@
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/roshanbohara-git/roshanbohara-git/output/snake.svg" alt="Snake animation" />
-
----
 
 > “The best way to predict the future is to invent it.” – Alan Kay
