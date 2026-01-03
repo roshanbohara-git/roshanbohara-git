@@ -66,8 +66,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=roshanbohara-git&theme=merko&hide_border=true&card_height=175&exclude_days=Sat" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?user=roshanbohara-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
-  <img src=https://github-readme-stats.vercel.app/api?user=roshanbohara-git&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
