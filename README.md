@@ -10,7 +10,7 @@
 - 🎓 Pursuing **Bachelor's Degree in Information Technology**
 - 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 🌱 Currently learning **FastAPI**, **Flutter**, and advanced Python
-- 🔭 Working on a **Smart Hospital & Clinic Management System** using Django + React
+- 🔭 Working on a my final year project using FastAPI + React
 - 🤝 Looking to collaborate on **open-source projects** and real-world AI solutions
 - ⚡ Fun Fact: I mix coding with music, memes, and milk tea ☕🎧
 
