@@ -63,6 +63,11 @@
 ---
 
 <h3 align="left">📈 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=roshanbohara-git&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshanbohara-git&layout=compact&theme=radical" width="50%" />
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats-sigma-two.vercel.app?user=roshanbohara-git&theme=merko&hide_border=true&card_height=175&exclude_days=Sat" alt="GitHub Streak" />
