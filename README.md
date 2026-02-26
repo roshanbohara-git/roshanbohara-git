@@ -64,8 +64,8 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=roshanbohara-git&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="50%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshanbohara-git&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=roshanbohara-git&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshanbohara-git&layout=compact&theme=radical" width="48%" />
 </div>
 
 
